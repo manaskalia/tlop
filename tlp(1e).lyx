@@ -1,5 +1,5 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -30,6 +30,8 @@
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -38,7 +40,7 @@
 \paperfontsize default
 \spacing single
 \use_hyperref false
-\papersize b3paper
+\papersize a4paper
 \use_geometry true
 \use_package amsmath 1
 \use_package amssymb 1
@@ -59,6 +61,7 @@
 \suppress_date false
 \justification true
 \use_refstyle 1
+\use_minted 0
 \index Index
 \shortcut idx
 \color #008000
@@ -71,8 +74,11 @@
 \tocdepth 3
 \paragraph_separation indent
 \paragraph_indentation default
-\quotes_language english
-\papercolumns 2
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
 \papersides 2
 \paperpagestyle default
 \tracking_changes false
@@ -386,7 +392,6 @@ So , due to my disease which is a form of Paranoid Scizophrenia , i can
  Gandhiji claimed that every person in the world is one of these three types
  of monkeys and has one of these special gifts which connects them to God
  and after 35 years of age everybody has old age protection from god's side.
- 
 \end_layout
 
 \begin_layout Standard
@@ -425,7 +430,6 @@ Now I will tell what I have seen , then later I'll tell the fantasy.
 \begin_layout Standard
 Million dollar question? What happens to US when these blackholes consume
  everything.
- 
 \end_layout
 
 \begin_layout Standard
@@ -635,7 +639,6 @@ In 2nd 8 billion tigers and tigresses, all of the tigers and tigresses are
 
 \begin_layout Standard
 In the Kali one , she looks like priyanka chopra.
- 
 \end_layout
 
 \begin_layout Standard
@@ -650,8 +653,15 @@ Then there is a 13 member family , where one boy is born at the 7th place
  Now there was a very massive operation which took place when that guy killed
  the girl and the tiger and implanted them in his body.
  It was a perfect operation.
- That guy is dil and there is a floor also where he meditated and that was
- also dil.
+ That guy is 
+\begin_inset Quotes eld
+\end_inset
+
+dil
+\begin_inset Quotes erd
+\end_inset
+
+ and there is a floor also where he meditated and that was also dil.
  ( It's the heart in hindi ).
  Had that person sinned or not is not known but he is the normal living
  thing we see ourselves and around us.
@@ -660,7 +670,8 @@ Then there is a 13 member family , where one boy is born at the 7th place
  that's what appears from the facial expressions which I saw.).
  Aah I remember, before finally setting into meditiation, he bent his body
  into shapes thinking that the tiger's body shape was different than his
- and he bent his body into 8400000 shapes too.
+ and he bent his body into 8400000 shapes too(Or probably 8.4 , i.e.
+ 8 or 9 shapes, or best just 8 shapes for ease.).
  So, for example if he bent his body like a mosquito , the mosquito he made
  would be as big as a human.
  The girl's name was Suman Radaa ( similar sounding to modern day Radha
@@ -893,73 +904,6 @@ Oxygen, the massively important material for breathing widely portrayed
  i have seen them ) and bhagwan is foul air ( clean air which has gathered
  some foul and is smelling bad now ) , now what is oxygen it remains to
  be questioned as it's a part of both clean and foul air .
- The hindu devta refers to faint light while it is different to the portrayal
- of Elves in English movies and even more different in chinese movies except
- that elves and devtas fought in favour of humans and won the war.
- Now it's interesting that animals are bhagwan and interstingly they have
- been shown as the asuras in hindu mythology while different portrayals
- of animals have appeared in Western movies.
- According to most IITians the indian eunuchs are devtas and animals are
- bhagwan also shown as asuras in popular books.
- Now hinduism is extremely anti to both eunuchs and animals while it always
- keeps on worshiping idols of devtas and bhagwans.
- In the contrary Islamists are somewhat friendly to eunuchs but then they
- are completely anti to animals and hate them in all respect.
- In islam, most islamist names are similar sounding to eunuch words in hindi
- or probably hindi has been designed in this way.
- One intersting example is when i first listened to nusrat fateh ali khan,
- one guy vikas bhatt in my class told the word 
-\begin_inset Quotes eld
-\end_inset
-
-khusra
-\begin_inset Quotes erd
-\end_inset
-
- that it means eunuch.
- It seems that in special hindi every islamic name is attached to this kind
- of words.
- Interstingly very few of the fewest names in Islam are like Khurram meaning
- 
-\begin_inset Quotes eld
-\end_inset
-
-with a Khur
-\begin_inset Quotes erd
-\end_inset
-
- or a horse / donkey / deer like animal.
- Probably in ahmediya community it seems.
- Then there was the lijjat papad hindi ad showing karram kurram as the tag
- line and showing rabbits.
- There are actors like Shahrukh Khan who were offered role of the lead eunuch
- in 
-\begin_inset Quotes eld
-\end_inset
-
-Darmiyan
-\begin_inset Quotes erd
-\end_inset
-
- movie which he rejected and later started speaking extremely anti to eunuchs.
- Then in Sikhism the names are like dead matter but singh word is attached,
- so they say we are animal but no ordinary animal but only the tiger or
- the loin.
- So different social values we see.
- So we were discussing oxygen , it's a part of both eunuchs ( Pure air )
- and animals ( foul air ) and humans too consume it.
- The atomic number 8 refers to bad omen in hinduism and one of my colleagues
- 
-\begin_inset Quotes eld
-\end_inset
-
-Sumiti Vasudeva
-\begin_inset Quotes erd
-\end_inset
-
- claiming that it's extremely bad number and her daughter born on 8th date
- is in chandal yog according to her janam patri.
- 
 \end_layout
 
 \begin_layout Standard
@@ -1261,6 +1205,7 @@ Introduction
 \begin_inset CommandInset citation
 LatexCommand cite
 key "www.lhup.edu"
+literal "true"
 
 \end_inset
 
@@ -3432,6 +3377,7 @@ The area under a force – time graph gives us the impulse of the force applied
 \begin_inset CommandInset citation
 LatexCommand cite
 key "physicsnet.co.uk"
+literal "true"
 
 \end_inset
 
@@ -3455,6 +3401,7 @@ The change in the momentum of a system (or the impulse delivered by the
 \begin_inset CommandInset citation
 LatexCommand cite
 key "pa.msu.edu"
+literal "true"
 
 \end_inset
 
@@ -3572,6 +3519,7 @@ Impulse graphs ( A Case Study)
 \begin_inset CommandInset citation
 LatexCommand cite
 key "bbc.co.uk"
+literal "true"
 
 \end_inset
 
@@ -3691,6 +3639,7 @@ Static Friction
 \begin_inset CommandInset citation
 LatexCommand cite
 key "hyperphysics.phy-astr.gsu.edu"
+literal "true"
 
 \end_inset
 
@@ -4330,6 +4279,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "physicsforums.com"
+literal "true"
 
 \end_inset
 
@@ -4370,6 +4320,7 @@ Example
 \begin_inset CommandInset citation
 LatexCommand cite
 key "physicstutorials.org"
+literal "true"
 
 \end_inset
 
@@ -5400,6 +5351,7 @@ Refer to the following information for the next thirteen questions.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "dev.physicslab.org"
+literal "true"
 
 \end_inset
 
@@ -6310,6 +6262,7 @@ The graph of position verse time is a sine wave with a possible phase shift.
 \begin_inset CommandInset citation
 LatexCommand cite
 key "ipodphysics.com"
+literal "true"
 
 \end_inset
 
@@ -10540,6 +10493,7 @@ Mathematical treatment of charging and discharging a capacitor
 \begin_inset CommandInset citation
 LatexCommand cite
 key "schoolphysics.co.uk"
+literal "true"
 
 \end_inset
 
@@ -11416,6 +11370,7 @@ Graphs for convex and concave lenses
 \begin_inset CommandInset citation
 LatexCommand cite
 key "schoolphysics.co.uk"
+literal "true"
 
 \end_inset
 
@@ -13636,9 +13591,21 @@ The Constraint equation
 \end_layout
 
 \begin_layout Standard
+\begin_inset Graphics
+	filename Images/Untitled.jpg
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset index_print
 LatexCommand printindex
 type "idx"
+name "Index"
+literal "true"
 
 \end_inset
 
